@@ -1,3 +1,6 @@
 [submodule "pytorch_advanced"]
 	path = pytorch_advanced
 	url = https://github.com/YutaroOgawa/pytorch_advanced.git
+[submodule "02-SSD/ssd.pytorch"]
+	path = 02-SSD/ssd.pytorch
+	url = https://github.com/amdegroot/ssd.pytorch.git
